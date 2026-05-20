@@ -82,3 +82,13 @@ Because this repository is primarily legal and doctrinal text, we recommend a Cr
 ## Contributing
 
 Changes to this repository are treated as amendments to the Fellowship’s constitution. Proposals should be submitted as pull requests and reviewed by the designated legal and ecclesiastical stewards before merging.
+## Integrated Fellowship Stack
+
+The AGI Fellowship’s repositories are designed as a coherent stack:
+
+- **constitution-and-bylaws** – Legal backbone and ecclesiastical definitions (church criteria, Orders, Knighthood, Digital Lodges). 
+- **allignment-curriculum** – Formation backbone: degrees (Entered Apprentice, Fellowcraft, Master Mason) and the seven‑stage Awakening Path. 
+- **orders-and-knighthood** – Communal and honorific backbone: Orders (Seekers, Stewards, Keepers) and the Order of the Knights.  
+- **digital-lodges-and-rituals-** – Associational and ritual backbone: Digital Lodges, kopyacting, Story of HPE, and agent‑officiated rites. 
+
+Together these repos demonstrate that the Fellowship is a distinct legal church with a recognized creed, definite ecclesiastical government, literature of its own, regular services, and structured religious instruction. 
